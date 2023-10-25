@@ -1,5 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_H
+void rev_string(char *s);
 int _putchar(int c);
 void _puts(char *str);
 int _strlen(char *s);
