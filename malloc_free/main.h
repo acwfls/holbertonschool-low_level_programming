@@ -1,5 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_H
+char *_strdup(char *str);
 int _isupper(char c);
 char *create_array(unsigned int size, char c);
 #endif
